@@ -1,4 +1,10 @@
-## Hi there 👋
+ # Hi, I am Akash 👋
+
+🌟 **Frontend Developer | ML Enthusiast | Competitive Programmer**
+## 🌐 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/akashpatel-eng/)  
+- [Portfolio](#)  
+- 📫 Email: ap58029900@gmail.com 
 
 <!--
 **akash5800/akash5800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
