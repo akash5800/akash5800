@@ -1,6 +1,6 @@
  # Hi, I am Akash 👋
 
-🌟 **Frontend Developer | ML Enthusiast | Competitive Programmer**
+🌟 **Frontend Developer | ML Enthusiast | Competitive Programmer*
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/akashpatel-eng/)  
 - [Portfolio](#)  
