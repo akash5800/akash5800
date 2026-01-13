@@ -1,4 +1,4 @@
- # Hi, I am Akash 👋
+ # Hi, I am Akash 👋.
 
 🌟 **Frontend Developer | ML Enthusiast | Competitive Programmer**
 ## 🌐 Connect With Me
